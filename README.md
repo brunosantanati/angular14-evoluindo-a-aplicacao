@@ -28,3 +28,8 @@ Abra seu navegador e digite http://localhost:4200 para acessar a aplicação. Ca
 [Link do repositório Git](https://github.com/alura-cursos/2678-angular-curso2)  
 [Imagens utilizadas no curso](https://caelum-online-public.s3.amazonaws.com/2678-angular-controle-fluxo-navegacao/01/imagens-do-curso.zip)  
 
+## Comandos úteis
+```
+Comparar conteúdo de duas aulas no Linux (nesse caso entre o projeto inicial e a aula 1):
+diff -r 2438-angular-memoteca-aula-6/ 2678-angular-curso2-aula-1/
+```
