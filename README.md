@@ -10,7 +10,7 @@ Para instalar o Angular CLI (versão do curso 14.0) é necessário ter o NodeJS 
 
 Para instalar o Angular CLI, abra seu terminal e digite o seguinte comando:  
 
-<code>npm install -g @angular/cli@14.0.0<code>  
+<code>npm install -g @angular/cli@14.0.0</code>  
 
 Neste curso, vamos evoluir a aplicação Memoteca. Por isso, utilizaremos como base o projeto desenvolvido no curso [Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD](https://cursos.alura.com.br/course/angular-explorando-framework). [Aqui você pode fazer o download do projeto final do curso pré-requisito](https://github.com/alura-cursos/2438-angular-memoteca/archive/refs/heads/aula-6.zip).     
 
