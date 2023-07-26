@@ -4,7 +4,9 @@
 
 [GitHub repo](https://github.com/alura-cursos/2678-angular-curso2)   
 [GitHub aula 1](https://github.com/alura-cursos/2678-angular-curso2/tree/aula-1)   
-[Doc da classe Validators](https://angular.io/api/forms/Validators#description)   
+[GitHub aula 2](https://github.com/alura-cursos/2678-angular-curso2/tree/aula-2)  
+[Doc da classe Validators](https://angular.io/api/forms/Validators#description)  
+[Como aplicar validação em formulários reativos no Angular?](https://www.alura.com.br/artigos/como-aplicar-validacao-formularios-reativos-angular)   
 
 ## Preparando o ambiente e rodando a aplicação
 
