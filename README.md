@@ -4,6 +4,7 @@
 
 [GitHub repo](https://github.com/alura-cursos/2678-angular-curso2)   
 [GitHub aula 1](https://github.com/alura-cursos/2678-angular-curso2/tree/aula-1)   
+[Doc da classe Validators](https://angular.io/api/forms/Validators#description)   
 
 ## Preparando o ambiente e rodando a aplicação
 
