@@ -6,6 +6,7 @@
 [GitHub aula 1](https://github.com/alura-cursos/2678-angular-curso2/tree/aula-1)   
 [GitHub aula 2](https://github.com/alura-cursos/2678-angular-curso2/tree/aula-2)  
 [GitHub aula 3](https://github.com/alura-cursos/2678-angular-curso2/tree/aula-3)  
+[GitHub aula 4](https://github.com/alura-cursos/2678-angular-curso2/tree/aula-4)  
 [Doc da classe Validators](https://angular.io/api/forms/Validators#description)  
 [Como aplicar validação em formulários reativos no Angular?](https://www.alura.com.br/artigos/como-aplicar-validacao-formularios-reativos-angular)   
 
