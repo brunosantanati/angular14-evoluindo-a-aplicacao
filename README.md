@@ -2,6 +2,7 @@
 
 ## Links
 
+[Código do curso 1 anterior a esse](https://github.com/brunosantanati/angular-14-crud)  
 [GitHub repo](https://github.com/alura-cursos/2678-angular-curso2)   
 [GitHub aula 1](https://github.com/alura-cursos/2678-angular-curso2/tree/aula-1)   
 [GitHub aula 2](https://github.com/alura-cursos/2678-angular-curso2/tree/aula-2)  
